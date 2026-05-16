@@ -1,7 +1,7 @@
 # luasive-obfuscator
 Roblox Luau obfuscator, compatible with Lua 5.1, Lua 5.3, Lua 5.4, Roblox Luau.
 
-join discord to obfuscate now: https://discord.gg/sMsBFddH4y
+**join discord to obfuscate now: https://discord.gg/sMsBFddH4y**
 
 Virtualization, string encryption, control flow scrambling, anti tamper, optimization.
 offers real security.
